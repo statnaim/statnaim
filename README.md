@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png.png" alt="NAIM" width="100%">
-</p>
+
 <p align="center">
   <img src="ban.gif" width="100%" alt="Animated Banner">
 </p>
