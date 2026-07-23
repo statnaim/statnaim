@@ -14,3 +14,8 @@ Welcome to my GitHub profile! I enjoy analyzing data, building dashboards, and c
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;Stata+%7C+SPSS+%7C+Power+BI;Welcome+to+my+GitHub+Profile" />
 </p>
+### Skills
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,r,mysql,github,vscode" />
+</p>
