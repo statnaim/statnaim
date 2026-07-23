@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I enjoy analyzing data, building dashboards, and c
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,mysql,matlab,github,vscode" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=statnaim&layout=compact"/>
+</p><p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=statnaim&show_icons=true"/>
 </p>
