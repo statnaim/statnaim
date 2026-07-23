@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="NAIM" width="100%">
+  <img src="banner.png.png" alt="NAIM" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm NAIM</h1>
