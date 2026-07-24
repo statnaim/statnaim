@@ -1,12 +1,19 @@
 
 <p align="center">
   <img src="port.gif" width="100%" alt="Animated Banner">
-</p>
-<h1 align="center">Hi 👋, I'm NAIM</h1>
+  
+</p><h3 align="center">Skills</h3>
 
-<h3 align="center">
-Data Analyst | Python | R |SPSS| STATA | Excel | Stata | Power BI 
-</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,matlab" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stata-1A5FB4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
 <p align="center">
 Welcome to my GitHub profile! I enjoy analyzing data, building dashboards, and creating data-driven solutions.
