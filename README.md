@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="ban.gif" width="100%" alt="Animated Banner">
+  <img src="port.gif" width="100%" alt="Animated Banner">
 </p>
 <h1 align="center">Hi 👋, I'm NAIM</h1>
 
